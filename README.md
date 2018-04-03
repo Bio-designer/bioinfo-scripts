@@ -2,7 +2,7 @@
 
 
 
-##gene_id_conversion.py 
+## gene_id_conversion.py 
 
 This script mainly used MyGeneInfo to convert gene symbols to gene Entrez IDs.
 
